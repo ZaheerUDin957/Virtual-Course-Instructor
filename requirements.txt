@@ -1,0 +1,14 @@
+streamlit
+langchain_community
+fpdf
+pymupdf
+markdown
+docx2txt
+rapidocr-onnxruntime
+langchain
+markdown
+unstructured
+langchain
+python-dotenv
+openai
+FPDF
